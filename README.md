@@ -10,9 +10,7 @@
     <a href="https://segmentfault.com/u/shellingfordly/">  思否</a>
   </li>
   <li>
-    <div style="border-radius: 50%">
-      <img src="https://avatars.githubusercontent.com/u/39196952?s=40&v=4" style="width: 16px;" />
-    </div>
+    <img src="https://avatars.githubusercontent.com/u/39196952?s=40&v=4" style="width: 16px;" />
     <a href="https://shellingfordly.gitee.io/">  My blog</a>
   </li>
   <li>
