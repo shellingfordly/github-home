@@ -22,6 +22,12 @@
 
 <p></p>
 
+
+[![](https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg)](https://juejin.cn/user/3799557993142535)
+[![](https://cdn.segmentfault.com/r-0e95e93b/static/sf-icon-small.82a498f6.svg)](https://segmentfault.com/u/shellingfordly/)
+[Blog](https://shellingfordly.gitee.io/)
+[📫 shellingfordly@qq.com](shellingfordly@qq.com)
+
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
