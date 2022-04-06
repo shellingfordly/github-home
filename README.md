@@ -1,15 +1,17 @@
 ### Hi there 👋, I'm [shellingfordly](https://github.com/shellingfordly)
 
-- [思否](https://segmentfault.com/u/shellingfordly/)
-- [Blog](https://shellingfordly.gitee.io/)
-- 📫 Reach me: shellingfordly@qq.com
-
 <ul>
   <li>
-    <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" />
-    <a href="https://juejin.cn/user/3799557993142535">掘金</a>
+    <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" max-width="16px" />
+    <a href="https://juejin.cn/user/3799557993142535">  掘金</a>
+  </li>
+  <li>
+    <img src="https://cdn.segmentfault.com/r-0e95e93b/static/sf-icon-small.82a498f6.svg" max-width="16px" />
+    <a href="https://segmentfault.com/u/shellingfordly/">  思否</a>
   </li>
 </ul>
+- 😄 [My blog](https://shellingfordly.gitee.io/)
+- 📫 Reach me: shellingfordly@qq.com
 
 <!--
 **shellingfordly/shellingfordly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
