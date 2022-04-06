@@ -26,12 +26,12 @@
       <h3>My skill</h3>
       <div>
         <a href="https://code.visualstudio.com/">
-          <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/>
+          <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
         </a>
       </div>
       <div>
         <a href="https://html.spec.whatwg.org/">
-          <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         </a>
         
         <a href="https://www.w3.org/Style/CSS/">
