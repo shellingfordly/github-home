@@ -36,8 +36,6 @@
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-MongoDB-6DB33F?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shellingfordly&show_icons=true&theme=buefy)
 
-### Code stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shellingfordly&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellingfordly&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
