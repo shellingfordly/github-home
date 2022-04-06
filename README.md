@@ -11,7 +11,7 @@
   </li>
   <li>
     <img src="https://avatars.githubusercontent.com/u/39196952?s=40&v=4" style="width: 16px;" />
-    <a href="https://shellingfordly.gitee.io/">  My blog</a>
+    <a href="https://shellingfordly.gitee.io/">  blog</a>
   </li>
   <li>
     <span>📫 </span>
