@@ -9,24 +9,15 @@
     <img src="https://cdn.segmentfault.com/r-0e95e93b/static/sf-icon-small.82a498f6.svg" style="width: 16px;" />
     <a href="https://segmentfault.com/u/shellingfordly/">  思否</a>
   </li>
+  <li>
+    <img src="https://avatars.githubusercontent.com/u/39196952?s=40&v=4" style="width: 16px;border-radius: 50%" />
+    <a href="https://shellingfordly.gitee.io/">  My blog</a>
+  </li>
+  <li>
+    <span>📫 Reach me: </span>
+    <a href="shellingfordly@qq.com"> shellingfordly@qq.com</a>
+  </li>
 </ul>
-- 😄 [My blog](https://shellingfordly.gitee.io/)
-- 📫 Reach me: shellingfordly@qq.com
-
-<!--
-**shellingfordly/shellingfordly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### My skill
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
