@@ -1,28 +1,26 @@
 ### Hi there 👋, I'm [shellingfordly](https://github.com/shellingfordly)
 
-<table >
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>
-          <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" style="width: 16px;" />
-          <a href="https://juejin.cn/user/3799557993142535">  掘金</a>
-        </li>
-        <li>
-          <img src="https://cdn.segmentfault.com/r-0e95e93b/static/sf-icon-small.82a498f6.svg" style="width: 16px;" />
-          <a href="https://segmentfault.com/u/shellingfordly/">  思否</a>
-        </li>
-        <li>
-          <img src="https://avatars.githubusercontent.com/u/39196952?s=40&v=4" style="width: 16px;" />
-          <a href="https://shellingfordly.gitee.io/">  blog</a>
-        </li>
-        <li>
-          <span>📫 </span>
-          <a href="shellingfordly@qq.com">  shellingfordly@qq.com</a>
-        </li>
-      </ul>
-    </td>
-    <td width="50%">
+<div style="display: flex" >
+  <div>
+    <ul>
+      <li>
+        <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" style="width: 16px;" />
+        <a href="https://juejin.cn/user/3799557993142535">  掘金</a>
+      </li>
+      <li>
+        <img src="https://cdn.segmentfault.com/r-0e95e93b/static/sf-icon-small.82a498f6.svg" style="width: 16px;" />
+        <a href="https://segmentfault.com/u/shellingfordly/">  思否</a>
+      </li>
+      <li>
+        <img src="https://avatars.githubusercontent.com/u/39196952?s=40&v=4" style="width: 16px;" />
+        <a href="https://shellingfordly.gitee.io/">  blog</a>
+      </li>
+      <li>
+        <span>📫 </span>
+        <a href="shellingfordly@qq.com">  shellingfordly@qq.com</a>
+      </li>
+    </ul>
+    <div>
       <h3>My skill</h3>
       <div>
         <a href="https://code.visualstudio.com/">
@@ -69,20 +67,20 @@
           <img src="https://img.shields.io/badge/-MongoDB-6DB33F?style=flat-square&logo=mongodb&logoColor=white" />
         </a>
       </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
+    </div>
+  </div>
+  <div>
+    <div>
       <h3>Github stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=shellingfordly&show_icons=true&theme=buefy" />
-    </td>
-    <td>
+    </div>
+    <div>
       <h3>Code stats</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shellingfordly&theme=buefy" />
       </a>
-    </td>
-  </tr>
+    </div>
+  </div>
 </table>
 
 
