@@ -2,14 +2,15 @@
 
 <ul>
   <li>
-    <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" max-width="16px" />
+    <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" style="max-width: 16px;" />
     <a href="https://juejin.cn/user/3799557993142535">  掘金</a>
   </li>
   <li>
-    <img src="https://cdn.segmentfault.com/r-0e95e93b/static/sf-icon-small.82a498f6.svg" max-width="16px" />
+    <img src="https://cdn.segmentfault.com/r-0e95e93b/static/sf-icon-small.82a498f6.svg" style="max-width: 16px;" />
     <a href="https://segmentfault.com/u/shellingfordly/">  思否</a>
   </li>
 </ul>
+
 - 😄 [My blog](https://shellingfordly.gitee.io/)
 - 📫 Reach me: shellingfordly@qq.com
 
