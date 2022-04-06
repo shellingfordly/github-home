@@ -40,4 +40,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shellingfordly&show_icons=true&theme=buefy)
 
 ### Code stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellingfordly&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellingfordly&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
