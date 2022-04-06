@@ -1,9 +1,15 @@
 ### Hi there 👋, I'm [shellingfordly](https://github.com/shellingfordly)
 
-- ![掘金](https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg)[掘金](https://juejin.cn/user/3799557993142535)
 - [思否](https://segmentfault.com/u/shellingfordly/)
 - [Blog](https://shellingfordly.gitee.io/)
 - 📫 Reach me: shellingfordly@qq.com
+
+<ul>
+  <li>
+    <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" />
+    <a href="https://juejin.cn/user/3799557993142535">掘金</a>
+  </li>
+</ul>
 
 <!--
 **shellingfordly/shellingfordly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
