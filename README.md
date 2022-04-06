@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [shellingfordly](https://github.com/shellingfordly)
 
 <div style="display: flex;" >
-  <div>
+  <div style="float: left">
     <ul>
       <li>
         <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" style="width: 16px;" />
