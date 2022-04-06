@@ -14,8 +14,8 @@
     <a href="https://shellingfordly.gitee.io/">  My blog</a>
   </li>
   <li>
-    <span>📫 Reach me: </span>
-    <a href="shellingfordly@qq.com"> shellingfordly@qq.com</a>
+    <span>📫 </span>
+    <a href="shellingfordly@qq.com">  shellingfordly@qq.com</a>
   </li>
 </ul>
 
