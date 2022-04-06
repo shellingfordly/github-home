@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm [shellingfordly](https://github.com/shellingfordly)
 
-<table width="800px">
+<table >
   <tr>
-    <td widtd="50%">
+    <td width="50%">
       <ul>
         <li>
           <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" style="width: 16px;" />
@@ -22,7 +22,7 @@
         </li>
       </ul>
     </td>
-    <td widtd="50%">
+    <td width="50%">
       <h3>My skill</h3>
       <div>
         <a href="https://code.visualstudio.com/">
