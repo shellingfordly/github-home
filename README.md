@@ -1,4 +1,4 @@
-### Hi there 👋, I'm shellingfordly
+### Hi there 👋, I'm [shellingfordly](https://github.com/shellingfordly)
 
 <!--
 **shellingfordly/shellingfordly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### my skill
+### My skill
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 
 
 
-### github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shellingfordly&show_icons=true&theme=vue)
+### Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shellingfordly&show_icons=true&theme=buefy)
 
 
-### code stats
+### Code stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellingfordly&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellingfordly&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
