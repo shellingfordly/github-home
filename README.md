@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [shellingfordly](https://github.com/shellingfordly)
 
-<div style="display: flex" >
+<div style="display: flex;" >
   <div>
     <ul>
       <li>
