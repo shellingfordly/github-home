@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm [shellingfordly](https://github.com/shellingfordly)
 
-[![](https://img.shields.io/badge/-掘金-1e80ff?style=flat-square)](https://juejin.cn/user/3799557993142535)
-[![](https://img.shields.io/badge/-思否-00965e?style=flat-square)](https://segmentfault.com/u/shellingfordly/)
-[Blog](https://shellingfordly.gitee.io/)
-[📫 shellingfordly@qq.com](shellingfordly@qq.com)
+[![](https://img.shields.io/badge/掘金-shellingfordly-1e80ff?style=flat-square)](https://juejin.cn/user/3799557993142535)
+[![](https://img.shields.io/badge/思否-shellingfordly-1e80ff?style=flat-square)](https://segmentfault.com/u/shellingfordly/)
+[![](https://img.shields.io/badge/Blog-shellingfordly-1e80ff?style=flat-square)](https://shellingfordly.gitee.io/)
+[![](https://img.shields.io/badge/email-shellingfordly@qq.com-1e80ff?style=flat-square)](shellingfordly@qq.com)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
