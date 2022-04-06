@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>
+    <td widtd="50%">
       <ul>
         <li>
           <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" style="width: 16px;" />
@@ -22,8 +22,8 @@
         </li>
       </ul>
     </td>
-    <td>
-    ### My skill
+    <td widtd="50%">
+      <h3>My skill</h3>
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
