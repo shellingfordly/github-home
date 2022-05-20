@@ -1,5 +1,3 @@
-### Hi there 👋, I'm [shellingfordly](https://github.com/shellingfordly)
-
 <p align="center">
   <samp>
     <a href="https://github.com/shellingfordly">github</a> .
