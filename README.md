@@ -1,6 +1,6 @@
-<pre style="display: flex; justify-content: center;">
-<a href="https://shellingfordly.github.io/" style="text-decoration: none;">
-<code style="cursor: pointer;color:#5294cb;">
+<div style="display: flex; justify-content: center;">
+<pre>
+<code style="color:#5294cb;">
       _           _ _ _              ___               _ _
      | |         | | (_)            / __)             | | |
   ___| | _   ____| | |_ ____   ____| |__ ___   ____ _ | | |_   _
@@ -9,8 +9,8 @@
 (___/|_| |_|\____)_|_|_|_| |_|\_|| |_|  \___/|_|   \____|_|\__  |
                              (_____|                      (____/
 </code>
-</a>
 </pre>
+</div>
 
 <p align="center">
   <samp>
