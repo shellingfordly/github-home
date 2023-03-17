@@ -10,7 +10,7 @@
 
 <p align="center">
   <samp>
-    <a target="_blank" href="https://shellingfordly.github.io/">cmd blog</a> .
+    <a target="_blank" href="https://shellingfordly.vercel.app/">terminal blog</a> .
     <a target="_blank" href="https://shellingfordly.gitee.io/">blog</a> .
     <a target="_blank" href="https://juejin.cn/user/3799557993142535">掘金</a> .
     <a target="_blank" href="https://segmentfault.com/u/shellingfordly/">思否</a> 
